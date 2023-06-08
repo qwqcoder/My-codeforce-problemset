@@ -9,7 +9,7 @@
   + [图论]
   + [计算几何]
   + [数论]
-  +  [RMQ&线段树](#RMQ)
+  +  [RMQ&线段树](#RMQ&线段树)
 
 ## 构造{#constructive}
 
@@ -175,7 +175,7 @@ https://codeforces.com/problemset/problem/1650/E
 
 
 
-## <a id = "RMQ">RMQ&线段树</a>
+## >RMQ&线段树
 
 [P1198 [JSOI2008\] 最大数 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/problem/P1198)
 
