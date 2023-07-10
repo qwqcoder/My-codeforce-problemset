@@ -11,7 +11,7 @@
   + [数论](#数论)
   + [RMQ&线段树](#rmq-线段树)
 
-## 构造{#constructive}
+## 构造
 
 [Problem - 625C - Codeforces](https://codeforces.com/problemset/problem/625/C) //矩阵数组构造
 
