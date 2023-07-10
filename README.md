@@ -1,6 +1,7 @@
 + 目录
   + [构造](#构造)
   + [DP](#dp)
+    + [数据结构维护dp](#dp++)
   + [贪心](#贪心)
   + [二分](#二分)
   + [思维](#思维)
@@ -49,7 +50,7 @@ https://ac.nowcoder.com/acm/problem/13230
 
 **[类似上面的那个](https://codeforces.com/contest/1016/problem/C)**
 
-==数据结构维护dp==
+### 数据结构维护dp
 
 [Problem - 1561C - Codeforces](https://codeforces.com/problemset/problem/1561/C)
 
