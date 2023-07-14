@@ -21,6 +21,9 @@
 
 
 ## DP
+## 线性dp
+https://www.luogu.com.cn/record/115453584  // 正难则反
+
 ## 区间dp
 https://ac.nowcoder.com/acm/problem/13230
 
